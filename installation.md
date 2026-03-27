@@ -1,4 +1,9 @@
-﻿# Installation
+﻿---
+layout: default
+title: Installation
+---
+
+# Installation
 
 ## Requirements
 
@@ -34,3 +39,4 @@ Once the project opens successfully:
 - Graph Minimap is an editor-only plugin.
 - It does not affect runtime gameplay builds.
 - If Unreal asks to rebuild the plugin, let it compile before testing.
+

@@ -1,4 +1,9 @@
-﻿# Graph Minimap
+﻿---
+layout: default
+title: Graph Minimap Docs
+---
+
+# Graph Minimap
 
 A minimap for Unreal graphs that makes large Blueprints, Materials, Behavior Trees, and Niagara systems easier to read and navigate.
 
@@ -41,3 +46,4 @@ If you just installed the plugin, start here:
 ## Fab Listing
 
 For product updates, support details, and purchasing information, see the Fab product page.
+

@@ -1,4 +1,9 @@
-﻿# Quick Start
+﻿---
+layout: default
+title: Quick Start
+---
+
+# Quick Start
 
 ## Open the Minimap
 
@@ -45,3 +50,4 @@ Recommended defaults for new users:
 - Focus Lens Scale: 0.75
 - Show Selected Node Links: Off
 - Auto-open Minimap In New Blueprints: On
+

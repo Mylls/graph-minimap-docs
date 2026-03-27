@@ -1,4 +1,9 @@
-﻿# Troubleshooting
+﻿---
+layout: default
+title: Troubleshooting
+---
+
+# Troubleshooting
 
 ## The minimap does not open from the keyboard shortcut
 
@@ -32,3 +37,4 @@ This is normal for source plugins when opening a project that has not built the 
 ## Window size or placement looks wrong
 
 Enable `Save Minimap Location & Size` and reopen the graph editor. If needed, resize the minimap once and let the setting persist for the next session.
+

@@ -1,4 +1,9 @@
-﻿# Graph Support
+﻿---
+layout: default
+title: Graph Support
+---
+
+# Graph Support
 
 Graph Minimap supports the following Unreal graph types.
 
@@ -19,3 +24,4 @@ Behavior Tree graphs are supported for overview and navigation workflows.
 Niagara graphs are supported.
 
 If a keyboard shortcut does not trigger in Niagara, use the graph editor `Window` menu to open the minimap. This is usually caused by editor shortcut conflicts rather than a plugin installation issue.
+

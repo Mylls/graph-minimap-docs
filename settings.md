@@ -1,4 +1,9 @@
-﻿# Settings
+﻿---
+layout: default
+title: Settings
+---
+
+# Settings
 
 Open Graph Minimap settings here:
 
@@ -45,3 +50,4 @@ Choose between Normal, Deuteranopia, Protanopia, and Tritanopia color profiles.
 
 ### Bookmark Slots
 Controls how many bookmark slots are available in the bookmarks dropdown.
+

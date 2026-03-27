@@ -1,4 +1,4 @@
-﻿theme: minima
+﻿theme: jekyll-theme-slate
 title: Graph Minimap Docs
 description: Documentation for the Graph Minimap Unreal Engine plugin
 markdown: kramdown

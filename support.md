@@ -1,4 +1,9 @@
-﻿# Support
+﻿---
+layout: default
+title: Support
+---
+
+# Support
 
 If you need help with Graph Minimap:
 
@@ -17,3 +22,4 @@ When reporting an issue, include:
 - what you expected to happen
 - what actually happened
 - whether the issue occurs when opening the minimap from the `Window` menu
+
