@@ -1,0 +1,5 @@
+﻿theme: minima
+title: Graph Minimap Docs
+description: Documentation for the Graph Minimap Unreal Engine plugin
+markdown: kramdown
+plugins: []
