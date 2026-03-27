@@ -1,11 +1,15 @@
 ﻿---
 layout: default
-title: Graph Minimap Docs
+title: Graph Minimap
 ---
 
-# Graph Minimap
-
-A minimap for Unreal graphs that makes large Blueprints, Materials, Behavior Trees, and Niagara systems easier to read and navigate.
+<div class="home-hero">
+  <img class="home-hero__icon" src="{{ '/assets/icon128.png' | relative_url }}" alt="Graph Minimap icon">
+  <div>
+    <p class="home-hero__eyebrow">Unreal Engine Plugin Documentation</p>
+    <p class="home-hero__lead">A minimap for Unreal graphs that makes large Blueprints, Materials, Behavior Trees, and Niagara systems easier to read and navigate.</p>
+  </div>
+</div>
 
 Graph Minimap is an Unreal Engine editor utility that helps you understand graph structure faster, move around large graphs more easily, and jump directly to the area you need.
 
@@ -46,4 +50,3 @@ If you just installed the plugin, start here:
 ## Fab Listing
 
 For product updates, support details, and purchasing information, see the Fab product page.
-
